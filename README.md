@@ -30,7 +30,7 @@ Reaction-diffusion using the gray-scott model is an interesting and quite challe
 
 An interesting result I discovered for this project is that besides realistic flowers, you could also render stylized and handrawn flowers, or even non flower objects, since the generator works with any png images. Here are some renders I created, each is using the texture on its left.
 
-![](rendered/slide3.png)
+![](rendered/Slide3.png)
 
 ### References
 
