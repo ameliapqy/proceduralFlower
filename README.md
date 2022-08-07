@@ -2,6 +2,8 @@
 
 ![](rendered/28.jpg)
 
+Video Demo: https://vimeo.com/737338184
+
 ### Introduction
 
 Modeling natural growing objects like flowers is usually a difficult task in computer graphics. Modeling a flower would usually take hours in 3d modeling software since each piece of flowers petals are unique and are not consist of simple geometric shapes. For this project, I’d like to explore ways to make this process more efficient.
